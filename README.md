@@ -10,7 +10,7 @@
 6. Run ```grunt serve```
 ### How to use it
 1. Clone the file to your machine
-2. Configure it by doing ```chmond +x prepare.sh```
+2. Configure it by doing ```chmod +x prepare.sh```
 3. When using it, type ```./prepare.sh``` to envoke it.
 
 ## open.sh

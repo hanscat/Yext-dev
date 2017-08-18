@@ -2,7 +2,7 @@
 
 ## prepare.sh
 ### What does it do
-1. Specify a path to store the repo
+1. Specify a path to store the repo (currently it only works for ~/repos, so please make sure you have that folder and choose the default)
 2. Fetch repo from remote
 3. Open up atom and terminals for that repo
 4. Create a git flow feature and switch to that branch for developers to edit
